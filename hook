@@ -871,6 +871,15 @@ do
 						Size = _udim2new(),
 						ZIndex = 0
 					}),
+create("Frame", {
+						Name = "_line2",
+						AnchorPoint = _vector2new(0.9, 0.9),
+						BackgroundColor3 = _color3new(),
+						BorderSizePixel = 0,
+						Position = _udim2new(),
+						Size = _udim2new(),
+						ZIndex = 0
+					}),
 					create("Frame", {
 						Name = "_line3",
 						AnchorPoint = _vector2new(0.9, 0.9),
